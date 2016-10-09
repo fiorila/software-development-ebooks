@@ -11,6 +11,8 @@ The MIT License (MIT)
 [Essential Algorithms: A Practical Approach to Computer Algorithms Kindle Edition by Rod Stephens - 2013](%5BEssential%20Algorithms%20A%20Practical%20Approach%20to%20Computer%20Algorithms%20Kindle%20Edition%20by%20Rod%20Stephens%20-%202013%5D.pdf) [**Buy**](https://www.amazon.com/Essential-Algorithms-Practical-Approach-Computer-ebook/dp/B00E6O265S/ref=mt_kindle?_encoding=UTF8&me=)  
 [Introduction to Algorithms [Print Replica] Kindle Edition by Thomas H. Cormen - 2009](%5BIntroduction%20to%20Algorithms%20%5BPrint%20Replica%5D%20Kindle%20Edition%20by%20Thomas%20H.%20Cormen%20-%202009%5D.pdf) [**Buy**](https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen-ebook/dp/B007CNRCAO/ref=mt_kindle?_encoding=UTF8&me=)  
 [Algorithms in a Nutshell: A Practical Guide Kindle Edition by George T. Heineman - 2016](%5BAlgorithms%20in%20a%20Nutshell%20A%20Practical%20Guide%20Kindle%20Edition%20by%20George%20T.%20Heineman%20-%202016%5D.pdf) [**Buy**](https://www.amazon.com/Algorithms-Nutshell-Practical-George-Heineman-ebook/dp/B01DAWPK6S/ref=mt_kindle?_encoding=UTF8&me=#nav-subnav)  
+[Algorithms, Part 1 Kindle Edition by Robert Sedgewick - 2014](%5BAlgorithms%2C%20Part%201%20Kindle%20Edition%20by%20Robert%20Sedgewick%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Algorithms-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=mt_kindle?_encoding=UTF8&me=)  
+[Algorithms, Part 2 Kindle Edition by Robert Sedgewick - 2014](%5BAlgorithms%2C%20Part%202%20Kindle%20Edition%20by%20Robert%20Sedgewick%20-%202014%5D.pdf)  [**Buy**](https://www.amazon.com/Algorithms-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=mt_kindle?_encoding=UTF8&me=)  
 
 ## Network
 
